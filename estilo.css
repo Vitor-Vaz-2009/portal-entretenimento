@@ -1,0 +1,57 @@
+body{
+
+    background-color: lightgray;
+
+    font-family: Arial;
+
+}
+
+/* FLEXBOX */
+
+.container{
+
+    display: flex;
+
+    gap: 20px;
+
+}
+
+/* CAIXAS */
+
+.caixa{
+
+    background-color: white;
+
+    padding: 10px;
+
+    width: 30%;
+
+}
+
+/* IMAGENS */
+
+img{
+
+    width: 100%;
+
+}
+
+/* IDs */
+
+#filmes{
+
+    border: 3px solid red;
+
+}
+
+#musica{
+
+    border: 3px solid green;
+
+}
+
+#games{
+
+    border: 3px solid blue;
+
+}
